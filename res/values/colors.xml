@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="yellow">#ffc000</color>
+    <color name="yellow_pressed">#CC9A00</color>
+    <color name="yellow_button_text_color">#faf6e6</color>
+    <color name="alpha_overlay">#4F000000</color>
+    <color name="grey">#DEDEDE</color>
+    <color name="darkgrey">#888888</color>
+    
+</resources>

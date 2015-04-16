@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">foodnet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="RestId_1">A</string>
+    <string name="RestName_1">Subway</string>
+    <string name="RestSubName_1">Fast Food Restaurant</string>
+    
+    <string name="RestId_2">B</string>
+    <string name="RestName_2">Mamak</string>
+    <string name="RestSubName_2">Malaysian Restaurant</string>
+    
+    <string name="RestId_3">C</string>
+    <string name="RestName_3">Starbucks</string>
+    <string name="RestSubName_3">Coffee Shop</string>
+
+</resources>
